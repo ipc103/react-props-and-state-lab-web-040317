@@ -5,6 +5,16 @@
 + Knowing when to pass props/state - the difference
 + Declarative programming
 + Where to begin - the features are interdependent...
++ Biggest lab so far - daunting...
++ scope - keeping track of this
+
+### What we learned
++ what props are
++ Object spead operator Object.assign vs
++ how to pass props from parent to child / syntax
++ bind a function in a parent component - passing it to a child component to be called
+
+
 ## Overview
 
 You'll build a small React application where you'll update state in response to an XHR payload and pass props among components to handle updates.
