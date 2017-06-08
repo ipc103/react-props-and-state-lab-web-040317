@@ -1,8 +1,13 @@
 # React Props and State Lab
 
+### What was hard?
+
++ Knowing when to pass props/state - the difference
++ Declarative programming
++ Where to begin - the features are interdependent...
 ## Overview
 
-You'll build a small React application where you'll update state in response to an XHR payload and pass props among components to handle updates. 
+You'll build a small React application where you'll update state in response to an XHR payload and pass props among components to handle updates.
 
 ## Animal Shelter
 ![Best Friends](https://media.giphy.com/media/xTiTnz5OOUn49wKbg4/giphy.gif)
